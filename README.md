@@ -23,7 +23,7 @@ This Python-based Streamlit web app helps users analyze the nutritional values o
 
 ---
 
-▶️ RUN THE APP 
+▶️ ## RUN THE APP 
   IMPORTANT !!!!
  The command: "python -m streamlit run app.py"
 
@@ -40,10 +40,4 @@ This Python-based Streamlit web app helps users analyze the nutritional values o
 
 ---
 
-## 🚀 Installation
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Ismet000/nutrition-analyzer.git
-cd nutrition-analyzer
